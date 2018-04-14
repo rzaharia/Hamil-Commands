@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hamilcommands",
+  "name": "Hamil Commands",
+  "description": "Useful commands added by Hamil Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["rzaharia"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
